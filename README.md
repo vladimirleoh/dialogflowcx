@@ -23,3 +23,9 @@ Apart from these 4 major flows, the chatbot is also able to handle the following
 - Number of COVID-19 cases globally to date
 - Number of COVID-19 cases in any country yesterday
 - Country with the highest amount of COVID-19 case
+
+References:
+Vaccine eligibility: https://www.moh.gov.sg/covid-19/vaccination/faqs---safety-and-efficacy-of-the-covid-19-vaccine
+Vaccine side effects: https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters
+PHQ-9 Questionnaire: https://www.mdcalc.com/phq-9-patient-health-questionnaire-9
+
