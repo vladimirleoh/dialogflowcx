@@ -20,9 +20,9 @@ Apart from these 4 major flows, the chatbot is also able to handle the following
 - Types of vaccines available
 - How does the vaccine work
 - Vaccine concerns relating to pregnancy, chronic illnesses, allergies, and receiving more than 1 type of vaccine
-- Number of COVID-19 cases globally to date (via live API)
-- Number of COVID-19 cases in any country yesterday (via live API)
-- Country with the highest amount of COVID-19 case (via live API)
+- Number of COVID-19 cases globally to date (via a webhook that receives data from a 3rd party API)
+- Number of COVID-19 cases in any country yesterday (via a webhook that receives data from a 3rd party API)
+- Country with the highest amount of COVID-19 case (via a webhook that receives data from a 3rd party API)
 
 References:
 1) Vaccine eligibility: https://www.moh.gov.sg/covid-19/vaccination/faqs---safety-and-efficacy-of-the-covid-19-vaccine
