@@ -25,7 +25,7 @@ Apart from these 4 major flows, the chatbot is also able to handle the following
 - Country with the highest amount of COVID-19 case
 
 References:
-Vaccine eligibility: https://www.moh.gov.sg/covid-19/vaccination/faqs---safety-and-efficacy-of-the-covid-19-vaccine
-Vaccine side effects: https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters
-PHQ-9 Questionnaire: https://www.mdcalc.com/phq-9-patient-health-questionnaire-9
+1) Vaccine eligibility: https://www.moh.gov.sg/covid-19/vaccination/faqs---safety-and-efficacy-of-the-covid-19-vaccine
+2) Vaccine side effects: https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters
+3) PHQ-9 Questionnaire: https://www.mdcalc.com/phq-9-patient-health-questionnaire-9
 
